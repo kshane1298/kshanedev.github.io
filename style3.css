@@ -1,0 +1,20 @@
+
+body{
+	background-image: url(background1.jpg);
+	background-size: 100%;
+}
+
+p{
+	color: #232946;
+	font-size: 2em;
+	display: flex;
+	justify-content: center;
+	padding: 240px 0px 0px 0px;
+}
+
+.class1{
+	color: #fffffe;
+	display: flex;
+	justify-content: center;
+	padding: 240px 0px 0px 0px;
+}
